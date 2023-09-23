@@ -1,4 +1,5 @@
-<h1 align="center">Hi , I'm Juan Ramirez </h1>
+<h1 align="center">Hi 👋, I'm Juan Ramirez </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=24&pause=1000&color=41ACFA&width=435&lines=Web+Development+Student)](https://git.io/typing-svg)
 "I am passionate about the world of web development, with a specific focus on the front-end. I am excited to be part of this vibrant community of developers from Peru.
 
 - 🌱 I’m currently learning **Flask, JavaScript**
