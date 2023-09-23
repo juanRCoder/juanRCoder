@@ -1,10 +1,18 @@
-<html>
-<h1 align="center">Hi 👋, I'm Juan Ramirez </h1>
+<h1 align="center">Juan Ramirez 👋💻</h1>
 
-<h2>About me:</h2>
-  <p>I am passionate about the world of web development, with a specific focus on the front-end. I am excited to be part of this vibrant community of developers from Peru.</p>
 
-- 🌱 I’m currently learning **Flask, JavaScript**
+<div align=center>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3483F4&center=true&width=435&lines=Web+development+student;Passionate+about+technology" alt="Typing SVG" /></a>
+</div>
+
+I'm from Peru and I have an undeniable passion for programming. My real excitement lies in the ability to create new and exciting experiences on the web. I am eager to continue growing as a developer and face future projects with creativity and determination.
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 📚 &nbsp; I'm a Full Stack Developer student at Holberton School.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🌱 &nbsp; Learning about New languages and new technologies.
+- 🔭 &nbsp; I am currently available for any job offer dedicated to web development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
