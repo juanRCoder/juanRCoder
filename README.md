@@ -14,6 +14,11 @@ I'm from Peru and I have an undeniable passion for programming. My real exciteme
 - 🌱 &nbsp; Learning about New languages and new technologies.
 - 🔭 &nbsp; I am currently available for any job offer dedicated to web development.
 
+<div align=center>
+  <a href="https://github.com/juanRCoder?tab=followers">
+    <img alt="GitHub followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/UlisesAlexanderAM?color=red&label=Follow&logo=github&style=for-the-badge"></a>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/juan-ramirez-490b84271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan ramirez" height="30" width="40" /></a>
