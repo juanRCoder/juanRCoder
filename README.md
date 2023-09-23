@@ -1,10 +1,8 @@
 <html>
 <h1 align="center">Hi 👋, I'm Juan Ramirez </h1>
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=24&pause=1000&color=41ACFA&width=435&lines=Web+Development+Student" alt="Typing SVG" /></a>
-</p>
+
 <h2>About me:</h2>
-  <h3>I am passionate about the world of web development, with a specific focus on the front-end. I am excited to be part of this vibrant community of developers from Peru.</h3>
+  <p>I am passionate about the world of web development, with a specific focus on the front-end. I am excited to be part of this vibrant community of developers from Peru.</p>
 
 - 🌱 I’m currently learning **Flask, JavaScript**
 
