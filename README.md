@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Juan Ramirez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Juan Ramirez </h1>
 "I am passionate about the world of web development, with a specific focus on the front-end. I am excited to be part of this vibrant community of developers from Peru.
 
 - 🌱 I’m currently learning **Flask, JavaScript**
