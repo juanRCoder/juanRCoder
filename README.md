@@ -1,5 +1,6 @@
-<h1>Hi 👋, I'm Juan Ramirez</h1>
-<h3 align="center">I am passionate about the world of web development, with a specific focus on the front-end. I am excited to be part of this vibrant community of developers from Peru.</h3>
+Hi 👋, I'm Juan Ramirez
+
+"I am passionate about the world of web development, with a specific focus on the front-end. I am excited to be part of this vibrant community of developers from Peru.
 
 - 🌱 I’m currently learning **Flask, JavaScript**
 
