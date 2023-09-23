@@ -1,4 +1,4 @@
-Hi 👋, I'm Juan Ramirez
+# Hi 👋, I'm Juan Ramirez
 
 "I am passionate about the world of web development, with a specific focus on the front-end. I am excited to be part of this vibrant community of developers from Peru.
 
