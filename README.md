@@ -15,8 +15,8 @@
 
 ## Connect with me:
 <div align="center">
-<a href="https://www.linkedin.com/in/juan-ramirez-490b84271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan ramirez" height="30" width="40" /></a>
-<a href="https://medium.com/@guillecarck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@guillecarck" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/juan-ramirez-490b84271/" target="blank"><img align="center" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan ramirez" height="30" width="40" /></a>
+<a href="https://medium.com/@guillecarck" target="blank"><img align="center" title="Medium" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@guillecarck" height="30" width="40" /></a>
 </div>
 
 
