@@ -5,16 +5,16 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3483F4&center=true&width=435&lines=Web+development+student;Passionate+about+technology" alt="Typing SVG" /></a>
 </div>
 
-### About me:
-I'm from Peru and I have an undeniable passion for programming. My real excitement lies in the ability to create new and exciting experiences on the web. I am eager to continue growing as a developer and face future projects with creativity and determination.
+## About me:
+<p align="center">I'm from Peru and I have an undeniable passion for programming. My real excitement lies in the ability to create new and exciting experiences on the web. I am eager to continue growing as a developer and face future projects with creativity and determination.</p>
 
 - 📚 &nbsp; I'm a Full Stack Developer student at Holberton School.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Learning about New languages and new technologies.
 - 🔭 &nbsp; I am currently available for any job offer dedicated to web development.
 
-<h3 align="left">Connect with me:</h3>
-<div align=center>
+## Connect with me:
+<div align="center">
 <a href="https://www.linkedin.com/in/juan-ramirez-490b84271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan ramirez" height="30" width="40" /></a>
 <a href="https://medium.com/@guillecarck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@guillecarck" height="30" width="40" /></a>
 </div>
