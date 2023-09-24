@@ -5,7 +5,7 @@
 </h1>
 
 ## About me:
-<p align="center">I'm from Peru and I have an undeniable passion for programming. My real excitement lies in the ability to create new and exciting experiences on the web. I am eager to continue growing as a developer and face future projects with creativity and determination.</p>
+<p align="center" style="display:flex; align-items: center; justify-content: center;">I'm from Peru and I have an undeniable passion for programming. My real excitement lies in the ability to create new and exciting experiences on the web. I am eager to continue growing as a developer and face future projects with creativity and determination.</p>
 
 - 📚 &nbsp; I'm a Full Stack Developer student at Holberton School.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
