@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm, Juan Ramirez 💻</h1>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0EC437&background=FF100200&center=true&vCenter=true&multiline=true&height=80&lines=Web+Development+Student;Learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0EC437&background=FF100200&vCenter=true&width=300&height=80&lines=Web+Development+Student;Learning+new+things" alt="Typing SVG" /></a>
 </div>
 
 ## About me:
