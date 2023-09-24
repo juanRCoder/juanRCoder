@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm, Juan Ramirez 💻</h1>
 
+<h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=2EC227&width=435&lines=Web+Development+Student;Learning+new+things" alt="Typing SVG" /></a>
+</h1>
 
 ## About me:
 <p align="center">I'm from Peru and I have an undeniable passion for programming. My real excitement lies in the ability to create new and exciting experiences on the web. I am eager to continue growing as a developer and face future projects with creativity and determination.</p>
