@@ -4,6 +4,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=2EC227&center=true&vCenter=true&width=435&lines=Web+Development+Student;Learning+new+things" alt="Typing SVG" /></a>
 </h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanRCoder&label=Profile%20views&color=0e75b6&style=flat" alt="juanRCoder" /> 
+</p>
 ## About me:
 <p align="center" style="display:flex; align-items: center; justify-content: center;">I'm from Peru and I have an undeniable passion for programming. My real excitement lies in the ability to create new and exciting experiences on the web. I am eager to continue growing as a developer and face future projects with creativity and determination.</p>
 
