@@ -15,7 +15,7 @@
 - 🔭 &nbsp; I am currently available for any job offer dedicated to web development.
 
 
-## Connect with me:
+<h1> Connect with me: </h1>
 <div align="center">
 <a href="https://twitter.com/yuan22rm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuan22rm" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/juan-ramirez-490b84271/" target="blank"><img align="center" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan ramirez" height="30" width="40" /></a>
