@@ -83,7 +83,7 @@
 
 ## GitHub Status
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanRCoder&show_icons=true&locale=en&layout=compact" alt="juanrcoder" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanRCoder&show_icons=true&locale=en&layout=compact&theme=dracula" alt="juanrcoder" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanRCoder&show_icons=true&locale=en" alt="juanrcoder" />
 </p>
 
