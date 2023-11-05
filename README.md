@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanRCoder&label=Profile%20views&color=0e75b6&style=flat" alt="juanRCoder" /> 
 </p>
-## About me:
+<h1> About me: </h1>
 <p align="center" style="display:flex; align-items: center; justify-content: center;">I'm from Peru and I have an undeniable passion for programming. My real excitement lies in the ability to create new and exciting experiences on the web. I am eager to continue growing as a developer and face future projects with creativity and determination.</p>
 
 - 📚 &nbsp; I'm a Full Stack Developer student at Holberton School.
