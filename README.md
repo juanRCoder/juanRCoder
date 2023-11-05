@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/juan-ramirez-490b84271/" target="blank">
   <img title="linkedin" align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="azzar" height="30"/>
 </a>
-<a href="[guillecarck@gmail.com](https://mail.google.com/mail/u/0/?ogbl#inbox)" target="blank">
+<a href="mailto:guillecarck@gmail.com" target="blank">
   <img title="gmail" align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar" height="30"/>
 </a>
 <a href="https://wa.me/+51956402456" target="blank">
