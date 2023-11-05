@@ -17,9 +17,20 @@
 
 <h1> Connect with me: </h1>
 <div align="center">
-<a href="https://twitter.com/yuan22rm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuan22rm" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/juan-ramirez-490b84271/" target="blank"><img align="center" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan ramirez" height="30" width="40" /></a>
-<a href="https://medium.com/@guillecarck" target="blank"><img align="center" title="Medium" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@guillecarck" height="30" width="40" /></a>
+<a href="https://twitter.com/yuan22rm" target="blank">
+  <img title="twitter" align="center" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="OSKARr" height="30"/>
+</a>
+<a href="https://www.linkedin.com/in/juan-ramirez-490b84271/" target="blank">
+  <img title="linkedin" align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="azzar" height="30"/>
+</a>
+<a href="[guillecarck@gmail.com](https://mail.google.com/mail/u/0/?ogbl#inbox)" target="blank">
+  <img title="gmail" align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar" height="30"/>
+</a>
+<a href="https://wa.me/+51956402456" target="blank">
+  <img title="whatsapp" align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="OSKARr" height="30"/>
+</a>
+<a href="https://medium.com/@guillecarck" target="blank">
+  <img title="medium" align="center" title="Medium" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@guillecarck" height="30" width="40" /></a>
 </div>
 
 
@@ -62,6 +73,14 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img title="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+  <img title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <img title="Express.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </div>
 
 
