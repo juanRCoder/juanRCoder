@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Juan Ramirez 💻</h1>
-[![](https://raw.githubusercontent.com/JuanRCoder/JuanRCoder/master/banner.gif)](https://github.com/JuanRCoder)
+
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=2EC227&center=true&vCenter=true&width=435&lines=Web+Development+Student;Learning+new+things" alt="Typing SVG" /></a>
 </h1>
