@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Juan Ramirez 💻</h1>
+<h1 align="center">Juan Ramirez 💻</h1>
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=2EC227&center=true&vCenter=true&width=435&lines=Web+Development+Student;Learning+new+things" alt="Typing SVG" /></a>
@@ -6,25 +6,34 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanRCoder&label=Profile%20views&color=0e75b6&style=flat" alt="juanRCoder" /> 
 </p>
-<h1> About me: </h1>
-<p align="center" style="display:flex; align-items: center; justify-content: center;">I'm from Peru and I have an undeniable passion for programming. My real excitement lies in the ability to create new and exciting experiences on the web. I am eager to continue growing as a developer and face future projects with creativity and determination.</p>
+<h1> Acerca de mi: </h1>
+<p align="center" style="display:flex; align-items: center; justify-content: center;">Soy de Perú y soy un apasionado por la programación web y de aplicaciones web. Mi verdadera emoción radica en la capacidad de crear experiencias nuevas y emocionantes en la web. Tengo muchas ganas de seguir creciendo como desarrollador y afrontar futuros proyectos con creatividad y determinación</p>
 
-- 📚 &nbsp; I'm a Full Stack Developer student at Holberton School.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Learning about New languages and new technologies.
-- 🔭 &nbsp; I am currently available for any job offer dedicated to web development.
+- 📚 &nbsp; Soy estudiante de Full Stack Developer en Holberton School..
+- 🤔 &nbsp; Exploración de nuevas tecnologías y desarrollo de soluciones de software y hacks rápidos.
+- 🌱 &nbsp; Aprender sobre nuevos idiomas y nuevas tecnologías.
+- 🔭 &nbsp; Actualmente estoy disponible para cualquier oferta de trabajo dedicada al desarrollo web.
 
 
-<h1> Connect with me: </h1>
+<h1> Conctacta conmigo: </h1>
 <div align="center">
+<a href="https://www.facebook.com/guillermo.montalvanramirez" target="blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 <a href="https://twitter.com/yuan22rm" target="blank">
-  <img title="twitter" align="center" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="OSKARr" height="30"/>
+  <img title="twitter" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/juan-ramirez-490b84271/" target="blank">
   <img title="linkedin" align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="azzar" height="30"/>
 </a>
 <a href="https://wa.me/+51956402456" target="blank">
   <img title="whatsapp" align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="OSKARr" height="30"/>
+</a>
+<a href="https://www.instagram.com/juanrcoder/" target="blank">
+  <img title="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/juanrcoder/" target="blank">
+  <img title="instagram" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 <a href="https://medium.com/@guillecarck" target="blank">
   <img title="medium" align="center" title="Medium" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@guillecarck" height="30" width="40" /></a>
