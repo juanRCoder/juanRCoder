@@ -18,25 +18,25 @@
 
 <h1> Contactame: </h1>
 <div align="center">
-<a href="https://www.facebook.com/guillermo.montalvanramirez" target="_blank">
+<a href="https://www.facebook.com/guillermo.montalvanramirez" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://twitter.com/yuan22rm" target="_blank">
+<a href="https://twitter.com/yuan22rm" target="_blank" rel="noopener noreferrer">
   <img title="twitter" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/juan-ramirez-490b84271/" target="_blank">
+<a href="https://www.linkedin.com/in/juan-ramirez-490b84271/" target="_blank" rel="noopener noreferrer">
   <img title="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://wa.me/+51956402456" target="_blank">
+<a href="https://wa.me/+51956402456" target="_blank" rel="noopener noreferrer">
   <img title="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/juanrcoder/" target="_blank">
+<a href="https://www.instagram.com/juanrcoder/" target="_blank" rel="noopener noreferrer">
   <img title="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://juanrcoder.github.io/Project-My_portafolio/" target="_blank">
+<a href="https://juanrcoder.github.io/Project-My_portafolio/" target="_blank" rel="noopener noreferrer">
   <img title="portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
-<a href="https://medium.com/@guillecarck" target="_blank">
+<a href="https://medium.com/@guillecarck" target="_blank" rel="noopener noreferrer">
   <img title="medium" align="center" title="Medium" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@guillecarck" height="30" width="40" /></a>
 </div>
 
