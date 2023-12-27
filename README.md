@@ -24,23 +24,23 @@
   <img title="twitter" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/juan-ramirez-490b84271/" target="blank">
-  <img title="linkedin" align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="azzar" height="30"/>
+  <img title="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://wa.me/+51956402456" target="blank">
-  <img title="whatsapp" align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="OSKARr" height="30"/>
+  <img title="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/juanrcoder/" target="blank">
   <img title="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/juanrcoder/" target="blank">
-  <img title="instagram" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+<a href="https://juanrcoder.github.io/Project-My_portafolio/" target="blank">
+  <img title="portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 <a href="https://medium.com/@guillecarck" target="blank">
   <img title="medium" align="center" title="Medium" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@guillecarck" height="30" width="40" /></a>
 </div>
 
 
-## Languages and tools
+## Lenguajes - Framewoks/librerias - Bases de datos - IDE - Diseño 
 
 <div align=center>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
