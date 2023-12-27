@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanRCoder&label=Profile%20views&color=0e75b6&style=flat" alt="juanRCoder" /> 
 </p>
 <h1> Acerca de mi: </h1>
-<p align="center" style="display:flex; align-items: center; justify-content: center;">Soy de Perú y soy un apasionado por la programación web y de aplicaciones web. Mi verdadera emoción radica en la capacidad de crear experiencias nuevas y emocionantes en la web. Tengo muchas ganas de seguir creciendo como desarrollador y afrontar futuros proyectos con creatividad y determinación</p>
+Soy de Perú y soy un apasionado por la programación web y de aplicaciones web. Mi verdadera emoción radica en la capacidad de crear experiencias nuevas y emocionantes en la web. Tengo muchas ganas de seguir creciendo como desarrollador y afrontar futuros proyectos con creatividad y determinación
 
 - 📚 &nbsp; Soy estudiante de Full Stack Developer en Holberton School..
 - 🤔 &nbsp; Exploración de nuevas tecnologías y desarrollo de soluciones de software y hacks rápidos.
