@@ -33,11 +33,9 @@
 <a href="https://www.instagram.com/juanrcoder/" target="_blank" rel="noopener noreferrer">
   <img title="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://juanrcoder.github.io/Project-My_portafolio/" target="_blank" rel="noopener noreferrer">
+<a href="https://juanrcoder.github.io/My-Portfolio/" target="_blank" rel="noopener noreferrer">
   <img title="portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
-<a href="https://medium.com/@guillecarck" target="_blank" rel="noopener noreferrer">
-  <img title="medium" align="center" title="Medium" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@guillecarck" height="30" width="40" /></a>
 </div>
 
 
