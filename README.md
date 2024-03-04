@@ -120,6 +120,9 @@
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img title="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
       </a>
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img title="Figma" src="./images/canvas.png" alt="figma" width="40" height="40"/>
+      </a>
     </td>
   </tr>
   <tr>
