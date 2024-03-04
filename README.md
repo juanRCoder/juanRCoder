@@ -1,13 +1,13 @@
 <h1 align="center">🚀Juan Ramirez 💻</h1>
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=2EC227&center=true&vCenter=true&width=435&lines=Web+Development+Student;Learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=2EC227&center=true&vCenter=true&width=435&lines=Desarrollo+Web;Aprendiendo+nuevas+cosas" alt="Typing SVG" /></a>
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanRCoder&label=Profile%20views&color=0e75b6&style=flat" alt="juanRCoder" /> 
 </p>
 <h1> Acerca de mi: </h1>
-<p>Soy de Perú y soy un apasionado por la programación web y de aplicaciones web. Mi verdadera emoción radica en la capacidad de crear experiencias nuevas y emocionantes en la web. Tengo muchas ganas de seguir creciendo como desarrollador y afrontar futuros proyectos con creatividad y determinación</p>
+<p>Hola, soy Juan Ramirez, me encanta crear cosas nuevas, innovadoras y eficientes para el disfrute de la sociedad. Mis hobbies son dibujar de manera tradicional, escribir minihistorias, escuchar J-pop y jugar juegos móviles. Intento ser ordenado siempre, en casa, en mi lugar de trabajo y en mi vida personal. Trato de avanzar y aprender o repasar algo nuevo cada día.</p>
 
 
 - 📚 &nbsp; Soy estudiante de Full Stack Developer en Holberton School..
