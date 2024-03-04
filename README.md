@@ -122,8 +122,11 @@
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img title="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
       </a>
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img title="Figma" src="./images/canvas.png" alt="figma" width="40" height="40"/>
+      <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+        <img title="Canvas" src="./images/canvas.png" alt="canvas" width="40" height="40"/>
+      </a>
+      <a href="https://lucid.app/documents" target="_blank" rel="noreferrer">
+        <img title="lucid" src="./images/lucidchart_94941.png" alt="lucid.app" width="40" height="40"/>
       </a>
     </td>
   </tr>
