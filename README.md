@@ -37,11 +37,16 @@
   <img title="portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 </div>
-| Desarrollo Frontend |  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a> |
-| :-------- | :------------------------- |
-
+<table>
+  <tr>
+    <td>Lenguajes de programación:</td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="" **alt="" width="40" height="40"/>&nbsp;
+    </td>
+  </tr>
+</table>
 ## Lenguajes - Framewoks/librerias - Bases de datos - IDE - Diseño 
 
 
