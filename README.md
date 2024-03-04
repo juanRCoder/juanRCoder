@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanRCoder&label=Profile%20views&color=0e75b6&style=flat" alt="juanRCoder" /> 
 </p>
-<h1> Acerca de mi: </h1>
+# 🧑 Acerca de mi:
 <p>Hola, soy Juan Ramirez, me encanta crear cosas nuevas, innovadoras y eficientes para el disfrute de la sociedad. Mis hobbies son dibujar de manera tradicional, escribir minihistorias, escuchar J-pop y jugar juegos móviles. Intento ser ordenado siempre, en casa, en mi lugar de trabajo y en mi vida personal. Trato de avanzar y aprender o repasar algo nuevo cada día.</p>
 
 
@@ -16,7 +16,7 @@
 - 🔭 &nbsp; Actualmente estoy disponible para cualquier oferta de trabajo dedicada al desarrollo web.
 
 
-<h1> Contactame: </h1>
+# 📞 Contactame:
 <div align="center">
 <a href="https://www.facebook.com/guillermo.montalvanramirez" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -39,7 +39,7 @@
 </div>
 
 
-## 🛠️ Habilidades:
+# 🛠️ Habilidades:
 <table>
   <tr>
     <td>Lenguajes de programación:</td>
