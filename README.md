@@ -47,8 +47,9 @@
     </td>
   </tr>
 </table>
-## Lenguajes - Framewoks/librerias - Bases de datos - IDE - Diseño 
-
+## Habilidades:
+| string |  Id of item to fetch |
+| :-------- | :------------------------- |
 
 <div align=center>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
