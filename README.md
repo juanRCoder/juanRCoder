@@ -131,6 +131,9 @@
       <a href="https://code.visualstudio.com/">
         <img title="Visual Studio Code" alt="Visual Studio Code" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       </a>
+      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+      </a>
     </td>
   </tr>
 </table>
