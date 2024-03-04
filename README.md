@@ -37,14 +37,13 @@
   <img title="portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 </div>
-
-
-## Lenguajes - Framewoks/librerias - Bases de datos - IDE - Diseño 
-
 | Desarrollo Frontend |  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </a> |
 | :-------- | :------------------------- |
+
+## Lenguajes - Framewoks/librerias - Bases de datos - IDE - Diseño 
+
 
 <div align=center>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
