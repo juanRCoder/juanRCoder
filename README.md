@@ -120,7 +120,9 @@
         <img title="lucid" src="./images/lucidchart_94941.png" alt="lucid.app" width="40" height="40"/>
       </a>
     </td>
-     <td>DevOps:</td>
+  </tr>
+  <tr>
+    <td>DevOps:</td>
     <td>
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img title="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
