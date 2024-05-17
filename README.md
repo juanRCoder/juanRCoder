@@ -1,7 +1,7 @@
 <h1 align="center">🚀Juan Ramirez 💻</h1>
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=2EC227&center=true&vCenter=true&width=435&lines=Desarrollo+Web;Aprendiendo+nuevas+cosas" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=2EC227&center=true&vCenter=true&width=435&lines=Desarrollo+Web+FrontEnd;Aprendiendo+nuevas+cosas" alt="Typing SVG" /></a>
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanRCoder&label=Profile%20views&color=0e75b6&style=flat" alt="juanRCoder" /> 
@@ -76,7 +76,7 @@
         <img title="Webpack" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
         </a>
         <a href="https://angular.io" target="_blank" rel="noreferrer">
-          <img title="Angular17" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+          <img title="Angular" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
         </a>
     </td>
   </tr>
