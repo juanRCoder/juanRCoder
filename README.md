@@ -12,7 +12,7 @@
 <p>Hola, soy Juan Ramirez, me encanta crear cosas nuevas, innovadoras y eficientes para el disfrute de la sociedad. Mis hobbies son dibujar de manera tradicional, escribir minihistorias, escuchar J-pop y jugar juegos móviles. Intento ser ordenado siempre, en casa, en mi lugar de trabajo y en mi vida personal. Trato de avanzar y aprender o repasar algo nuevo cada día.</p>
 
 
-- 📚 &nbsp; Soy estudiante de Full Stack Developer en Holberton School..
+- 📚 &nbsp; Desarrollador web autodidacta.
 - 🤔 &nbsp; Exploración de nuevas tecnologías y desarrollo de soluciones de software y hacks rápidos.
 - 🌱 &nbsp; Aprender sobre nuevos idiomas y nuevas tecnologías.
 - 🔭 &nbsp; Actualmente estoy disponible para cualquier oferta de trabajo dedicada al desarrollo web.
