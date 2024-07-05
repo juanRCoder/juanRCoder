@@ -40,11 +40,6 @@
 </a>
 </div>
 
-<br />
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanRCoder&theme=onedark" alt="juanrcoder" /></a> 
-</p>
-
 ## 🛠️ Habilidades:
 <table>
   <tr>
@@ -159,6 +154,9 @@
 </table>
 
 ## GitHub Status
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanRCoder&theme=onedark" alt="juanrcoder" /></a> 
+</p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanRCoder&show_icons=true&locale=en&layout=compact&theme=dracula" alt="juanrcoder" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanRCoder&show_icons=true&locale=en&theme=tokyonight" alt="juanrcoder" />
