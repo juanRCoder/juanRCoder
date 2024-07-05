@@ -40,6 +40,9 @@
 </a>
 </div>
 
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanRCoder&theme=onedark" alt="juanrcoder" /></a> 
+</p>
 
 ## 🛠️ Habilidades:
 <table>
@@ -68,6 +71,9 @@
       </a>
       </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
         <img title="SASS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+      </a>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img title="TailwindCSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
       </a>
       <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
         <img title="Webpack" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
