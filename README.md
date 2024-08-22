@@ -60,9 +60,6 @@
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img title="typeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
       </a>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img title='Python' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      </a> 
     </td>
   </tr>
   <tr>
@@ -89,9 +86,6 @@
       <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img title="Angular" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
       </a>
-      <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img title="Vue" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-      </a>
     </td>
   </tr>
   <tr>
@@ -116,14 +110,14 @@
       </a>
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td>Framewoks:</td>
     <td>
        <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
         <img title="flask" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
       </a>
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td>Softwares:</td>
     <td>
@@ -154,9 +148,6 @@
       </a>
       <a href="https://code.visualstudio.com/">
         <img title="Visual Studio Code" alt="Visual Studio Code" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      </a>
-      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img title="arduino" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
       </a>
     </td>
   </tr>
