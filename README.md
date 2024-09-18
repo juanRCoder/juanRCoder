@@ -80,9 +80,6 @@
       <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
         <img title="Next" src="https://blazecommerce.io/wp-content/uploads/2023/10/headless-woocommerce-with-next-js.jpg" alt="angular" width="40" height="40"/>
       </a>
-      <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img title="Angular" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-      </a>
       <a href="https://docs.astro.build/en/getting-started/" target="_blank" rel="noreferrer">
         <img title="Astro" src="https://miro.medium.com/v2/resize:fit:1400/1*nLbfO_PdTSpeCdZQuUr8RQ.png" alt="angular" width="40" height="40"/>
       </a>
