@@ -93,6 +93,12 @@
       </a>
       <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img title="Express.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+      </a
+      <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
+        <img title="Nest" src="https://docs.nestjs.com/assets/logo-small-gradient.svg" alt="nest" width="40" height="40"/>
+      </a>
+       <a href="https://www.prisma.io/docs/getting-started" target="_blank" rel="noreferrer">
+        <img title="Prisma" src="https://www.prisma.io/docs/img/logo-white.svg" alt="nest" width="40" height="40"/>
       </a>
     </td>
   </tr>
@@ -118,14 +124,14 @@
   <tr>
     <td>Softwares:</td>
     <td>
+      <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+        <img title="Supabase" src="https://community.appsmith.com/sites/default/files/2024-03/supabase-logo.jpg" alt="supabase" width="40" height="40"/>
+      </a>
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img title="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
       </a>
       <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
         <img title="Canvas" src="./images/canvas.png" alt="canvas" width="40" height="40"/>
-      </a>
-      <a href="https://lucid.app/documents" target="_blank" rel="noreferrer">
-        <img title="lucid" src="./images/lucidchart_94941.png" alt="lucid.app" width="40" height="40"/>
       </a>
     </td>
   </tr>
@@ -134,6 +140,9 @@
     <td>
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img title="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+      </a>
+      <a href="https://aws.amazon.com/es/ec2/?did=ft_card&trk=ft_card" target="_blank" rel="noreferrer">
+        <img title="AWS EC2" src="./images/AWS_EC2.png" alt="nest" width="40" height="40"/>
       </a>
     </td>
   </tr>
