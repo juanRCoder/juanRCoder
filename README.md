@@ -32,7 +32,7 @@
 </div>
 
 ## 🛠️ Habilidades:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwindcss,react,nextjs,astro,nodejs,expressjs,nestjs,prisma,mysql,mongodb,postgres,supabase,figma,docker,git&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwindcss,react,materialui,nextjs,astro,nodejs,expressjs,nestjs,prisma,mysql,mongodb,postgres,supabase,figma,docker,git&perline=10)](https://skillicons.dev)
 
 ## GitHub Status
 <p align="left"> 
