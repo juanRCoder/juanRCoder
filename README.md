@@ -50,21 +50,23 @@
 </p>
 
 ## 🛠️ Habilidades:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwindcss,react,nextjs,astro,nodejs,expressjs,nestjs,prisma,mysql,&perline=6)](https://skillicons.dev)
 
 <table>
-  <tr>
+ <tr>
     <td>Lenguajes de programación:</td>
     <td>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img title="javaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+        <img title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
       </a>
+
+      [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwindcss,react,nextjs,astro,nodejs,expressjs,nestjs,prisma,mysql,&perline=6)](https://skillicons.dev)
+
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img title="typeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+        <img title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
       </a>
     </td>
   </tr>
-  <tr>
     <td>Desarrollo Front-end:</td>
     <td>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
