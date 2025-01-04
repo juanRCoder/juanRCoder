@@ -19,7 +19,7 @@
 
 
 ## 📞 Contactame:
-<div align="center">
+<div align="left">
 <a href="https://www.linkedin.com/in/juan-ramirez-490b84271/" target="_blank" rel="noopener noreferrer">
   <img title="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
