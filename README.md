@@ -23,9 +23,6 @@
 <a href="https://www.facebook.com/guillermo.montalvanramirez" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://twitter.com/yuan22rm" target="_blank" rel="noopener noreferrer">
-  <img title="twitter" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
 <a href="https://www.linkedin.com/in/juan-ramirez-490b84271/" target="_blank" rel="noopener noreferrer">
   <img title="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -35,10 +32,13 @@
 <a href="https://www.instagram.com/juanrcoder/" target="_blank" rel="noopener noreferrer">
   <img title="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://juanramirez-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
+<a href="https://portafolio-web-juanrcoder.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img title="portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 </div>
+
+## 🛠️ Habilidades:
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwindcss,react,nextjs,astro,nodejs,expressjs,nestjs,prisma,mysql,mongodb,postgres,supabase,figma,docker,git&perline=10)](https://skillicons.dev)
 
 ## GitHub Status
 <p align="left"> 
@@ -48,7 +48,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanRCoder&show_icons=true&locale=en&layout=compact&theme=dracula" alt="juanrcoder" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanRCoder&show_icons=true&locale=en&theme=tokyonight" alt="juanrcoder" />
 </p>
-
-## 🛠️ Habilidades:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwindcss,react,nextjs,astro,nodejs,expressjs,nestjs,prisma,mysql,mongodb,postgres,supabase,figma,docker,git&perline=10)](https://skillicons.dev)
-
