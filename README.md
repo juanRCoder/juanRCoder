@@ -9,13 +9,13 @@
 
 
 ## 🧑 Acerca de mi:
-<p>Hola, soy Juan Ramirez, me encanta crear cosas nuevas, innovadoras y eficientes para el disfrute de la sociedad. Mis hobbies son dibujar de manera tradicional, escribir minihistorias, escuchar J-pop y jugar juegos móviles. Intento ser ordenado siempre, en casa, en mi lugar de trabajo y en mi vida personal. Trato de avanzar y aprender o repasar algo nuevo cada día.</p>
+<p>Soy Juan Ramirez, desarrollador web enfocado en la creación de soluciones innovadoras, eficientes y orientadas a mejorar la experiencia del usuario. Mantengo un enfoque metódico y organizado tanto en mi entorno profesional como personal. Me gusta avanzar de forma constante, perfeccionando o reforzando nuevas habilidades cada día para optimizar mi trabajo y la calidad de los proyectos que desarrollo.</p>
 
 
 - 📚 &nbsp; Desarrollador web autodidacta.
 - 🤔 &nbsp; Exploración de nuevas tecnologías y desarrollo de soluciones de software y hacks rápidos.
 - 🌱 &nbsp; Aprender sobre nuevos idiomas y nuevas tecnologías.
-- 🔭 &nbsp; Actualmente estoy disponible para cualquier oferta de trabajo dedicada al desarrollo web.
+- 🔭 &nbsp; Actualmente estoy disponible para cualquier proyecto dedicada al desarrollo web.
 
 
 ## 📞 Contactame:
@@ -32,7 +32,7 @@
 </div>
 
 ## 🛠️ Habilidades:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwindcss,react,vue,materialui,nextjs,astro,nodejs,expressjs,nestjs,prisma,mysql,mongodb,postgres,supabase,figma,docker,git&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwindcss,react,vue,nextjs,astro,nodejs,expressjs,nestjs,prisma,mysql,mongodb,postgres,supabase,figma,docker,git&perline=12)](https://skillicons.dev)
 
 ## GitHub Status
 <p align="left"> 
