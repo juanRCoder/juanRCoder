@@ -23,9 +23,6 @@
 <a href="https://www.linkedin.com/in/juan-ramirez-490b84271/" target="_blank" rel="noopener noreferrer">
   <img title="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://wa.me/+51956402456" target="_blank" rel="noopener noreferrer">
-  <img title="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
-</a>
 <a href="https://portafolio-web-juanrcoder.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img title="portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
