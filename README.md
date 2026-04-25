@@ -22,14 +22,12 @@ Desarrollador Full-Stack, enfocado en la creacion de interfaces modernas , dinam
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=333)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
 ![NestJS](https://img.shields.io/badge/NestJS-E02347?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-4A92D9?style=for-the-badge&logo=sequelize&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD Pipelines](https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -49,9 +47,10 @@ Desarrollador Full-Stack, enfocado en la creacion de interfaces modernas , dinam
 ### 📞 Contáctame
 
 <div align="center">
-💬 ¿Tienes un proyecto en mente o quieres colaborar? ¡Estoy disponible!
 
-<br />
+**💬 ¿Tienes un proyecto en mente? ¡Hablemos!**
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanramirez-6012)
 [![Discord](https://img.shields.io/badge/Discord-@juanramirez__6012-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/juanramirez_6012)
