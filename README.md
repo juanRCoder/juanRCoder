@@ -21,27 +21,29 @@ Desarrollador Full-Stack, enfocado en la creacion de interfaces modernas , dinam
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
+  <img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square" />
 
   <!-- Backend -->
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-404d59?style=flat-square&logo=express&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="REST API" src="https://img.shields.io/badge/-REST_API-02569B?style=flat-square" />
+  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-4A92D9?style=flat-square&logo=sequelize&logoColor=white" />
 
   <!-- Base de datos -->
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 
-  <!-- ORM -->
-  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-  <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-4A92D9?style=flat-square&logo=sequelize&logoColor=white" />
-
   <!-- Tools -->
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="GitHub Projects" src="https://img.shields.io/badge/-GitHub_Projects-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
+  <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" />
 </p>
 
 </div>
