@@ -15,8 +15,9 @@ Especializado en **React** y **NestJS** — llevo productos del diseño a produc
 
 ### 💼 Experiencia
 
-**Full-Stack Developer — Central Time Developers Inc** *(Febrero 2025 – Febrero 2026)*
-Trabaje en el desarrollo de un nuevo módulo de software para la gestión de turnos, automatizando la selección de vehículos, asociados y rutas a los turnos, mejorando la eficiencia del sistema en un 50%.
+**Full-Stack Developer — CT Developers Inc (Febrero 2025 – Febrero 2026) - Remoto**
+<br />
+Reconstruí un sistema de turnos lento (v2) migrándolo a una nueva arquitectura en (v3) que optimizo los tiempos de respuesta y simplifico la experiencia de usuario. 
 
 <br />
 
@@ -27,7 +28,7 @@ Trabaje en el desarrollo de un nuevo módulo de software para la gestión de tur
 | **Frontend** | <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img alt="Vue.js 3" src="https://img.shields.io/badge/-Vue.js%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" /> <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" /> |
 | **Backend** | <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" /> <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /> <img alt="REST APIs" src="https://img.shields.io/badge/-REST%20APIs-4CAF50?style=flat-square" /> <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /> <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" /> |
 | **Base de datos** | <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> |
-| **DevOps & Infra** | <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" /> <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" /> <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" /> |
+| **DevOps e Infra** | <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" /> <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" /> <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" /> |
 
 <br />
 
@@ -41,7 +42,7 @@ Trabaje en el desarrollo de un nuevo módulo de software para la gestión de tur
 
 ### 🎓 Formación
 
-- **Certificado Full-Stack Developer — Holberton School Peru** *(2023, 2024)* · React, Node/Express, MySQL
+**Certificado Full-Stack Developer — Holberton School Peru** *(2023, 2024)* <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
 <br />
 
