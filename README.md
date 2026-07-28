@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&text=Juan%20Ramirez&textBg=false&fontAlign=50&descAlign=50&section=header&reversal=true&animation=twinkling&descSize=15&fontSize=40&fontColor=ffffff&descAlignY=51&desc=FullStack%20Developer%20|%20Perú&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&text=Juan%20Ramirez&textBg=false&fontAlign=50&descAlign=50&section=header&reversal=true&animation=twinkling&descSize=15&fontSize=40&fontColor=ffffff&descAlignY=51&desc=FullStack%20Developer%20|%20Perú&fontAlignY=35" width="100%"/> 
 </div>
 
 Especializado en **React** y **NestJS** — llevo productos del diseño a producción.
@@ -17,7 +17,7 @@ Especializado en **React** y **NestJS** — llevo productos del diseño a produc
 
 **Full-Stack Developer — CT Developers Inc (Febrero 2025 – Febrero 2026) - Remoto**
 <br />
-Reconstruí un sistema de turnos lento (v2) migrándolo a una nueva arquitectura en (v3) que optimizo los tiempos de respuesta y simplifico la experiencia de usuario. 
+Reconstruí un sistema de turnos lento (v2) migrándolo a una nueva arquitectura en (v3) que optimizo los tiempos de respuesta y simplifico la experiencia de usuario. <img alt="Vue.js 3" src="https://img.shields.io/badge/-Vue.js%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /> <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" /> <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
 <br />
 
