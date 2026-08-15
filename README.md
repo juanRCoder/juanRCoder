@@ -34,7 +34,7 @@ Reconstruí un sistema de turnos lento (v2) migrándolo a una nueva arquitectura
 
 ### 🚀 Proyectos Destacados
 
-| Proyecto | Stack | Description | URL |
+| Proyecto | Stack | Description Short | URL |
 |---|---|---|---|
 | CaveFlow | <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> | Sistema de pedidos en tiempo real para restaurantes | https://landing-caveflow.netlify.app |
 
