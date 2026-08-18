@@ -5,7 +5,7 @@
 Especializado en **React** y **NestJS** — llevo productos del diseño a producción.
 </br>Desarrollo con IA en el flujo de desarrollo para maximizar velocidad y calidad.
 
-📍 Zona Norte, Lima Metropolitana · Abierto a trabajo remoto, híbrido o presencial.
+📍 Zona Norte, Lima Metropolitana · Abierto a trabajo remoto o híbrido.
 
 ![Estado](https://img.shields.io/badge/Estado-Disponible-brightgreen)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Work-success)
