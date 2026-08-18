@@ -3,7 +3,7 @@
 </div>
 
 Especializado en **React** y **NestJS** — llevo productos del diseño a producción.
-</br>Desarrollo con IA en el flujo de desarrollo (Claude, Gemini) para maximizar velocidad y calidad.
+</br>Desarrollo con IA en el flujo de desarrollo para maximizar velocidad y calidad.
 
 📍 Zona Norte, Lima Metropolitana · Abierto a trabajo remoto, híbrido o presencial.
 
